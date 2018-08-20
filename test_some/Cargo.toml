@@ -1,0 +1,7 @@
+[package]
+name = "test_some"
+version = "0.1.0"
+authors = ["Vladimir Motylenko <vladimir.motylenko@xdev.re>"]
+
+[dependencies]
+constexpr = {version = "0.0.1-alpha1", path = "../"}
